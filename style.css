@@ -16,7 +16,7 @@ body {
 
 /* Styles pour le header */
 header {
-  background-color: #14cf1d;
+  background-color: #3097c0;
   color: #fff;
   padding: 20px 0;
   position: fixed;
@@ -61,7 +61,7 @@ nav ul li a {
   position: absolute;
   top: 100%;
   left: 1;
-  background-color: #41dd11b9; /* Gris foncé pour le sous-menu */
+  background-color: #5811ddb9;
   padding: 10px;
   list-style: none;
   margin: 0;
@@ -117,7 +117,7 @@ nav ul li a {
 }
 
 a.nav-link{
-  color: #c900fc;
+  color: #1dfc00;
 }
 
 .mobile-nav-toggle {
@@ -136,7 +136,7 @@ section {
 /* Style pour les titres de section */
 h2 {
   font-size: 2rem;
-  color: #2c3e50; /* Bleu foncé pour les titres */
+  color: #366799; /* Bleu foncé pour les titres */
   margin-bottom: 15px;
   text-align: center;
 }
